@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrethydavid
+👋  Hi, I’m @andrethydavid
 
-### Where to finde me ##
-- twitter(https://twitter.com/AAndrethy) 
+### Where to find me ##
+- twitter (https://twitter.com/AAndrethy) 
