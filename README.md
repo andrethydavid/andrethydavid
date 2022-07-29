@@ -1,3 +1,8 @@
+<div  id = "header" align="center">
+ <img src="https://media.giphy.com/media/10ppffwhOftLy0/giphy.gif" width="200"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Andrethy David Aguilar Ariza</h1>
 <h3 align="center">I am a passionate data analytics</h3>
 
