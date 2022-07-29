@@ -7,8 +7,7 @@
 <h3 align="center">I am a passionate data analytics</h3>
 
 - 💬 Ask me about **Python,SQL,PowerBI,TableuHtml ,Google Data Studio**
- 🌱 Actualmente estoy aprendiendo **Momgo Db,Google claud**
-
+- 🌱 Actualmente estoy aprendiendo **Momgo Db,Google claud**
 - 📫 How to reach me **Andrethy.aaguilar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
