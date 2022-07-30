@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Andrethy David Aguilar Ariza</h1>
 <h3 align="center">I am a passionate data analytics</h3>
 
-💼 Soy analista de datos con experiencia en edtech y entornos de inicio de rápido crecimiento. Mi trabajo ha impactado positivamente la vida de miles de latinoamericanos, ayudándolos a adquirir habilidades de alta demanda.
+💼 💼 I'm a data analyst with a background in edtech and fast-growing startup environments. My work has positively impacted the lives of thousands of Latin Americans, helping them acquire high-demand skills.
 
-Mi formación académica es ingeniería civil con enfoque de computación científica. Aquí desarrollé scripts para mecánica computacional usando Python y Matlab. También participé en la integración de nuevos estudiantes a la Academia, ayudándolos a tener éxito.
+My academic background is civil engineering with a scientific computing approach. Here I developed scripts for computational mechanics using Python and Matlab. I also participated in the integration of new students to the Academy, helping them to be successful.
 
 - 💬 Ask me about **Python,SQL,PowerBI,TableuHtml ,Google Data Studio**
 - 🌱 I am currently learning Momgo Db,Google claud***
