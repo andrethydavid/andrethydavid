@@ -8,7 +8,7 @@
 
 💼 💼 I'm a data analyst with a background in edtech and fast-growing startup environments. My work has positively impacted the lives of thousands of Latin Americans, helping them acquire high-demand skills.
 
-My academic background is civil engineering with a scientific computing approach. Here I developed scripts for computational mechanics using Python and Matlab. I also participated in the integration of new students to the Academy, helping them to be successful.
+My academic background is International Business with a scientific computing approach. Here I developed scripts for computational mechanics using Python and Matlab. I also participated in the integration of new students to the Academy, helping them to be successful.
 
 - 💬 Ask me about **Python,SQL,PowerBI,TableuHtml ,Google Data Studio**
 - 🌱 I am currently learning Momgo Db,Google claud***
