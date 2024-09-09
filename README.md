@@ -6,11 +6,9 @@
 <h1 align="center">Hi 👋, I'm Andrethy David Aguilar Ariza</h1>
 <h3 align="center">I am a passionate data analytics</h3>
 
-💼 💼 I'm a data analyst with a background in edtech and fast-growing startup environments. My work has positively impacted the lives of thousands of Latin Americans, helping them acquire high-demand skills.
+💼 💼💻 Soy un Científico de Datos con experiencia en SQL y Python 🐍, especializado en transformar grandes volúmenes de datos 📊 en insights valiosos para el negocio 📈. Utilizo Power BI 📊 y Tableau 📉 para crear visualizaciones que facilitan la toma de decisiones informadas 🧠. Mi enfoque está en mejorar productos 📦, optimizar operaciones ⚙️ y ayudar a las empresas a alcanzar su máximo potencial 🚀 a través de una estrategia de datos sólida 📊🔑.
 
-My academic background is International Business with a scientific computing approach. Here I developed scripts for computational mechanics using Python and Matlab. I also participated in the integration of new students to the Academy, helping them to be successful.
-
-- 💬 Ask me about **Python,SQL,PowerBI,TableuHtml ,Google Data Studio**
+- 💬 Ask me about **Python,SQL,PowerBI,TableuHtml ,looker studio**
 - 🌱 I am currently learning Momgo Db,Google claud***
 - 📫 How to reach me **Andrethy.aaguilar@gmail.com**
 
