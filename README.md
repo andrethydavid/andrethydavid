@@ -23,6 +23,9 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-%232F3D4D.svg?style=for-the-badge&logo=lookerstudio&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-%23143443.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-%23EE3D47.svg?style=for-the-badge&logo=sas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 🌐 Redes Sociales
 
@@ -32,6 +35,7 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/andrethydavid)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](andrethy.aaguilar@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-%23006BFF.svg?logo=linktree&logoColor=white)](https://linktr.ee/andrethy.aaguilar)
+[![Platzi](https://img.shields.io/badge/Platzi-%23000000.svg?logo=platzi&logoColor=white)](https://platzi.com/p/andrethydavidaguilarariza/)
 
  
 <h3 class="github-stats-title">Estadísticas de GitHub</h3>
