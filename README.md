@@ -9,7 +9,7 @@
 💼 💼💻 Soy un Científico de Datos con experiencia en SQL y Python 🐍, especializado en transformar grandes volúmenes de datos 📊 en insights valiosos para el negocio 📈. Utilizo Power BI 📊 y Tableau 📉 para crear visualizaciones que facilitan la toma de decisiones informadas 🧠. Mi enfoque está en mejorar productos 📦, optimizar operaciones ⚙️ y ayudar a las empresas a alcanzar su máximo potencial 🚀 a través de una estrategia de datos sólida 📊🔑.
 
 - 💬 Herramientas: **Python,SQL,PowerBI,TableuHtml ,looker studio**
-- 🌱 Actualmente estoy aprendiendo Momgo Db,Google claud***
+- 🌱 Actualmente estoy aprendiendo Momgo Db,AWS**
 - 📫 Como llegar a mi**Andrethy.aaguilar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
