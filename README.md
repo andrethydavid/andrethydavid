@@ -8,10 +8,6 @@
 
 💼 💼💻 Me presento. Soy un Científico de Datos con experiencia en SQL y Python 🐍, especializado en transformar grandes volúmenes de datos 📊 en insights valiosos para el negocio 📈. Utilizo Power BI 📊 y Tableau 📉 para crear visualizaciones que facilitan la toma de decisiones informadas 🧠. Mi enfoque está en mejorar productos 📦, optimizar operaciones ⚙️ y ayudar a las empresas a alcanzar su máximo potencial 🚀 a través de una estrategia de datos sólida 📊🔑.
 
-- 💬 Herramientas: **Python,SQL,PowerBI,TableuHtml ,looker studio**
-- 🌱 Actualmente estoy aprendiendo Momgo Db,AWS**
-- 📫 Como llegar a mi**Andrethy.aaguilar@gmail.com**
-
 Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Tecnología Gif"/>
 
 ![SQL](https://img.shields.io/badge/SQL-%2300A4E4.svg?style=for-the-badge&logo=sql&logoColor=white)
