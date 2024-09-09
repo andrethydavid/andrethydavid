@@ -3,8 +3,8 @@
 </div>
 
 
-<h1 align="center">Hola 👋, Soy un tal  Andrethy David Aguilar Ariza</h1>
-<h3 align="center">I am a passionate data analytics</h3>
+<h1 align="center">Hola 👋, Soy un tal  Andrethy David Aguilar Ariza ✌️ </h1>
+<h3 align="center">Me apasiona analizar datos para impulsar el crecimiento del negocio, optimizar métricas clave y mejorar el rendimiento del producto.</h3>
 
 💼 💼💻 Soy un Científico de Datos con experiencia en SQL y Python 🐍, especializado en transformar grandes volúmenes de datos 📊 en insights valiosos para el negocio 📈. Utilizo Power BI 📊 y Tableau 📉 para crear visualizaciones que facilitan la toma de decisiones informadas 🧠. Mi enfoque está en mejorar productos 📦, optimizar operaciones ⚙️ y ayudar a las empresas a alcanzar su máximo potencial 🚀 a través de una estrategia de datos sólida 📊🔑.
 
