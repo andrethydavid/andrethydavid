@@ -29,6 +29,7 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 
 
 
+
 ## 🌐 Redes Sociales
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AAndrethy)
