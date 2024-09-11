@@ -33,7 +33,7 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 ## 🌐 Redes Sociales
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AAndrethy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/CodeWhiteWeb](https://www.linkedin.com/in/andrethy-aguilar-data-analyst/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrethy-aguilar-data-analyst/)
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?logo=blogger&logoColor=white)](https://andrethy-david-aguilar.super.site/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/andrethydavid)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](andrethy.aaguilar@gmail.com)
