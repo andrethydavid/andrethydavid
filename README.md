@@ -40,7 +40,7 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 [![Linktree](https://img.shields.io/badge/Linktree-%23006BFF.svg?logo=linktree&logoColor=white)](https://linktr.ee/andrethy.aaguilar)
 [![Platzi](https://img.shields.io/badge/Platzi-%23000000.svg?logo=platzi&logoColor=white)](https://platzi.com/p/andrethydavidaguilarariza/)
 
- 
+
 
 
 
