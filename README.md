@@ -41,8 +41,6 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 [![Platzi](https://img.shields.io/badge/Platzi-%23000000.svg?logo=platzi&logoColor=white)](https://platzi.com/p/andrethydavidaguilarariza/)
 
  
-<h3 class="github-stats-title">Estadísticas de GitHub</h3>
-
 
 
 
