@@ -46,17 +46,21 @@ Pila de Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=andrethydavid&show_icons=true&theme=dark&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=andrethydavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrethydavid&layout=compact&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrethydavid&layout=compact&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
 
-
-   
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=andrethydavid&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
 
 
 
